@@ -124,7 +124,4 @@ pub fn print() {
     };
 
     write!(print_state1, "Welcome to Calcadite Operating System").unwrap();
-    write!(print_state1, "Version").unwrap();
-
-    write!(print_state2, "LICENSED Under GNU General Public License 3.0").unwrap();
 }
